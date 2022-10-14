@@ -1,8 +1,12 @@
-![Hrayr's GitHub stats](https://iamhrayr-github-stats.vercel.app/api?username=iamhrayr&count_private=true&show_icons=true&theme=city_lights&include_all_commits=false)
+![Hrayr's GitHub stats](https://iamhrayr-github-stats.vercel.app/api?username=iamhrayr&custom_title=My%20GitHub%20stats&count_private=true&show_icons=true&theme=city_lights&include_all_commits=false)
 
 ![Hrayr's GitHub stats](https://iamhrayr-github-stats.vercel.app/api/top-langs?username=iamhrayr&show_icons=true&layout=compact&theme=city_lights&hide=php,smarty)
 
+<!--
+[![GitHub Streak](https://streak-stats.demolab.com?user=iamhrayr&theme=tokyonight)](https://git.io/streak-stats)
 
+https://user-images.githubusercontent.com/24793677/195953601-e533e187-6ff8-4cf5-8961-aaa46e7228c3.mp4
+-->
 
 
 <!--
@@ -19,3 +23,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
