@@ -1,4 +1,9 @@
-### Hi there 👋
+![Hrayr's GitHub stats](https://iamhrayr-github-stats.vercel.app/api?username=iamhrayr&count_private=true&show_icons=true&theme=city_lights&include_all_commits=false)
+
+![Hrayr's GitHub stats](https://iamhrayr-github-stats.vercel.app/api/top-langs?username=iamhrayr&show_icons=true&layout=compact&theme=city_lights&hide=php,smarty)
+
+
+
 
 <!--
 **iamhrayr/iamhrayr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
