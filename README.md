@@ -5,7 +5,7 @@
 
 Skills: JavaScript / React / Node / GraphQL / Nest.js / Meteor
 
-- 🔭 I’m currently working on CodeSignal 
+<!-- - 🔭 I’m currently working on CodeSignal  -->
 - 🌱 I’m currently learning Solidity 
 - 📫 How to reach me: https://t.me/iamhrayr 
 - 📢 Name pronunciation: https://voca.ro/1anPhzXsHzJA
