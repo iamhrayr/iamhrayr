@@ -20,5 +20,7 @@ Skills: JavaScript / React / Node / GraphQL / Nest.js / Meteor
 
 ![GitHub metrics](https://metrics.lecoq.io/iamhrayr) -->
 
-![Profile views](https://gpvc.arturio.dev/iamhrayr)
+<!-- ![Profile views](https://gpvc.arturio.dev/iamhrayr) -->
+![Profile views](https://komarev.com/ghpvc/?username=iamhrayr)
+
 
